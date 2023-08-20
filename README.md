@@ -1,4 +1,5 @@
 # SocPredict-ML
+---
 
 ## Overview
 This project focuses on predicting wins and losses for the 2022-23 season of La Liga football using a machine learning model based on data from the 2021-22 season. By analyzing match logs and shooting statistics, the goal is to develop a predictive model that can provide insights into team performance and outcomes.
@@ -24,7 +25,8 @@ The steps included:
 The `predict.ipynb` notebook also showcases the implementation of the Random Forest Classifier model:
 - Utilizing the `pandas` library for feature engineering.
 - Exploring hyperparameter tuning for optimal model performance.
-- Evaluating the model's accuracy and performance metrics.
+- Evaluating the model's accuracy and performance metrics.  
+---
 
 ## Usage
 1. Clone this repository:

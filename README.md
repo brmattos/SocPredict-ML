@@ -21,7 +21,7 @@ The steps included:
 - Combining data from multiple seasons and teams into a single dataset.
 - Standardizing column names for consistency.
 
-## Random Forest Classifier
+## Random Forest Classifier Model
 The `predict.ipynb` notebook also showcases the implementation of the Random Forest Classifier model:
 - Utilizing the `pandas` library for feature engineering.
 - Exploring hyperparameter tuning for optimal model performance.

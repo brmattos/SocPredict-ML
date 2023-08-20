@@ -11,7 +11,7 @@ This project focuses on predicting wins and losses for the 2022-23 season of La 
 - `games_stats.csv`: Processed and aggregated dataset containing match logs, shooting statistics, and predictions.
 
 ## Data Collection
-Used web scraping techniques to gather match logs and shooting statistics for the 2021-22 and 2022-23 seasons of La Liga football. The `requests` and `BeautifulSoup` libraries were employed to extract relevant information from web pages.
+Used web scraping techniques to gather match logs and shooting statistics for the 2021-22 and 2022-23 seasons of La Liga football. The `requests` and `BeautifulSoup4` libraries were employed to extract relevant information from web pages.
 
 ## Data Preprocessing
 The collected data was processed and cleaned in the `predict.ipynb` notebook.  

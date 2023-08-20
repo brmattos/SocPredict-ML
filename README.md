@@ -31,7 +31,7 @@ The `predict.ipynb` notebook also showcases the implementation of the Random For
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/brmattos/SocPredict-ML.git
    ```
 3. Install required libraries:
    ```bash
